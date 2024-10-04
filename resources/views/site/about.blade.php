@@ -70,6 +70,27 @@
 					<p>Developer</p>
 				</div>
 			</div>
+            <div class="col-md-3">
+				<div class="team-member text-center">
+					{{-- <img class="img-circle" src="images/team/team-2.jpg"> --}}
+					<h4>Abdelkareem Mohammed Alkashif</h4>
+					<p>Developer</p>
+				</div>
+			</div>
+            <div class="col-md-3">
+				<div class="team-member text-center">
+					{{-- <img class="img-circle" src="images/team/team-2.jpg"> --}}
+					<h4>Abdalla Abdelbaset Shamallakh</h4>
+					<p>Developer</p>
+				</div>
+			</div>
+            <div class="col-md-3">
+				<div class="team-member text-center">
+					{{-- <img class="img-circle" src="images/team/team-2.jpg"> --}}
+					<h4>Hosam Nabil Qarot</h4>
+					<p>Developer</p>
+				</div>
+			</div>
 
 		</div>
 	</div>
